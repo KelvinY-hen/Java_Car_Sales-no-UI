@@ -1,0 +1,26 @@
+#table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#th, #tdata {
+  text-align: left;
+  padding: 8px;
+}
+
+#trow:nth-child(even){background-color: #f2f2f2}
+
+#trow:hover {background-color: #ddd;}
+
+/* Set height of table and enable scroll bar if number of rows exceed 10 */
+#tbody {
+  display: block;
+  height: 320px; /* Set fixed height */
+  overflow-y: auto; /* Enable vertical scrollbar */
+}
+
+#thead, tbody #trow {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}

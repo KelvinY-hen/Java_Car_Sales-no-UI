@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/yelia/OneDrive%20-%20Asia%20Pacific%20University/Documents/NetBeansProjects/EPDA_Assignment/EPDA_Assignment/EPDA_Assignment-war/web/managerManage.jsp</file>
+            <file>file:/C:/Users/yelia/OneDrive%20-%20Asia%20Pacific%20University/Documents/NetBeansProjects/EPDA_Assignment/EPDA_Assignment/EPDA_Assignment-war/src/java/controller/CustomerController.java</file>
+            <file>file:/C:/Users/yelia/OneDrive%20-%20Asia%20Pacific%20University/Documents/NetBeansProjects/EPDA_Assignment/EPDA_Assignment/EPDA_Assignment-war/web/customerLogin.jsp</file>
+            <file>file:/C:/Users/yelia/OneDrive%20-%20Asia%20Pacific%20University/Documents/NetBeansProjects/EPDA_Assignment/EPDA_Assignment/EPDA_Assignment-war/web/customerMenu.jsp</file>
+            <file>file:/C:/Users/yelia/OneDrive%20-%20Asia%20Pacific%20University/Documents/NetBeansProjects/EPDA_Assignment/EPDA_Assignment/EPDA_Assignment-war/web/productSalesManage.jsp</file>
+            <file>file:/C:/Users/yelia/OneDrive%20-%20Asia%20Pacific%20University/Documents/NetBeansProjects/EPDA_Assignment/EPDA_Assignment/EPDA_Assignment-war/web/index.html</file>
+            <file>file:/C:/Users/yelia/OneDrive%20-%20Asia%20Pacific%20University/Documents/NetBeansProjects/EPDA_Assignment/EPDA_Assignment/EPDA_Assignment-war/web/dailyAnalysis.jsp</file>
+            <file>file:/C:/Users/yelia/OneDrive%20-%20Asia%20Pacific%20University/Documents/NetBeansProjects/EPDA_Assignment/EPDA_Assignment/EPDA_Assignment-war/web/managerLogin.jsp</file>
+            <file>file:/C:/Users/yelia/OneDrive%20-%20Asia%20Pacific%20University/Documents/NetBeansProjects/EPDA_Assignment/EPDA_Assignment/EPDA_Assignment-war/web/productManage.jsp</file>
+            <file>file:/C:/Users/yelia/OneDrive%20-%20Asia%20Pacific%20University/Documents/NetBeansProjects/EPDA_Assignment/EPDA_Assignment/EPDA_Assignment-war/web/salesMenu.jsp</file>
+            <file>file:/C:/Users/yelia/OneDrive%20-%20Asia%20Pacific%20University/Documents/NetBeansProjects/EPDA_Assignment/EPDA_Assignment/EPDA_Assignment-war/web/customerManage.jsp</file>
+            <file>file:/C:/Users/yelia/OneDrive%20-%20Asia%20Pacific%20University/Documents/NetBeansProjects/EPDA_Assignment/EPDA_Assignment/EPDA_Assignment-war/web/previousPage.jsp</file>
+            <file>file:/C:/Users/yelia/OneDrive%20-%20Asia%20Pacific%20University/Documents/NetBeansProjects/EPDA_Assignment/EPDA_Assignment/EPDA_Assignment-war/web/dailyAnalysisChart.jsp</file>
+            <file>file:/C:/Users/yelia/OneDrive%20-%20Asia%20Pacific%20University/Documents/NetBeansProjects/EPDA_Assignment/EPDA_Assignment/EPDA_Assignment-war/web/salesRecord.jsp</file>
+            <file>file:/C:/Users/yelia/OneDrive%20-%20Asia%20Pacific%20University/Documents/NetBeansProjects/EPDA_Assignment/EPDA_Assignment/EPDA_Assignment-war/web/managerProductPayment.jsp</file>
+            <file>file:/C:/Users/yelia/OneDrive%20-%20Asia%20Pacific%20University/Documents/NetBeansProjects/EPDA_Assignment/EPDA_Assignment/EPDA_Assignment-war/web/productAnalysis.jsp</file>
+            <file>file:/C:/Users/yelia/OneDrive%20-%20Asia%20Pacific%20University/Documents/NetBeansProjects/EPDA_Assignment/EPDA_Assignment/EPDA_Assignment-war/web/productEdit.jsp</file>
+            <file>file:/C:/Users/yelia/OneDrive%20-%20Asia%20Pacific%20University/Documents/NetBeansProjects/EPDA_Assignment/EPDA_Assignment/EPDA_Assignment-war/web/customerRegister.jsp</file>
+            <file>file:/C:/Users/yelia/OneDrive%20-%20Asia%20Pacific%20University/Documents/NetBeansProjects/EPDA_Assignment/EPDA_Assignment/EPDA_Assignment-war/web/monthlySales.jsp</file>
+            <file>file:/C:/Users/yelia/OneDrive%20-%20Asia%20Pacific%20University/Documents/NetBeansProjects/EPDA_Assignment/EPDA_Assignment/EPDA_Assignment-war/web/managerMenu.jsp</file>
+            <file>file:/C:/Users/yelia/OneDrive%20-%20Asia%20Pacific%20University/Documents/NetBeansProjects/EPDA_Assignment/EPDA_Assignment/EPDA_Assignment-war/web/salesEdit.jsp</file>
+            <file>file:/C:/Users/yelia/OneDrive%20-%20Asia%20Pacific%20University/Documents/NetBeansProjects/EPDA_Assignment/EPDA_Assignment/EPDA_Assignment-war/web/productAnalysisChart.jsp</file>
+            <file>file:/C:/Users/yelia/OneDrive%20-%20Asia%20Pacific%20University/Documents/NetBeansProjects/EPDA_Assignment/EPDA_Assignment/EPDA_Assignment-war/src/java/controller/ProductController.java</file>
+            <file>file:/C:/Users/yelia/OneDrive%20-%20Asia%20Pacific%20University/Documents/NetBeansProjects/EPDA_Assignment/EPDA_Assignment/EPDA_Assignment-war/web/managerRegister.jsp</file>
+            <file>file:/C:/Users/yelia/OneDrive%20-%20Asia%20Pacific%20University/Documents/NetBeansProjects/EPDA_Assignment/EPDA_Assignment/EPDA_Assignment-war/web/productClassRegister.jsp</file>
+            <file>file:/C:/Users/yelia/OneDrive%20-%20Asia%20Pacific%20University/Documents/NetBeansProjects/EPDA_Assignment/EPDA_Assignment/EPDA_Assignment-war/web/salesRegister.jsp</file>
+            <file>file:/C:/Users/yelia/OneDrive%20-%20Asia%20Pacific%20University/Documents/NetBeansProjects/EPDA_Assignment/EPDA_Assignment/EPDA_Assignment-war/src/java/controller/SalesmanController.java</file>
+            <file>file:/C:/Users/yelia/OneDrive%20-%20Asia%20Pacific%20University/Documents/NetBeansProjects/EPDA_Assignment/EPDA_Assignment/EPDA_Assignment-war/web/productRegister.jsp</file>
+            <file>file:/C:/Users/yelia/OneDrive%20-%20Asia%20Pacific%20University/Documents/NetBeansProjects/EPDA_Assignment/EPDA_Assignment/EPDA_Assignment-war/web/salesManage.jsp</file>
+            <file>file:/C:/Users/yelia/OneDrive%20-%20Asia%20Pacific%20University/Documents/NetBeansProjects/EPDA_Assignment/EPDA_Assignment/EPDA_Assignment-war/web/salesLogin.jsp</file>
+            <file>file:/C:/Users/yelia/OneDrive%20-%20Asia%20Pacific%20University/Documents/NetBeansProjects/EPDA_Assignment/EPDA_Assignment/EPDA_Assignment-war/web/customerEdit.jsp</file>
+            <file>file:/C:/Users/yelia/OneDrive%20-%20Asia%20Pacific%20University/Documents/NetBeansProjects/EPDA_Assignment/EPDA_Assignment/EPDA_Assignment-war/web/css/styles.css</file>
+            <file>file:/C:/Users/yelia/OneDrive%20-%20Asia%20Pacific%20University/Documents/NetBeansProjects/EPDA_Assignment/EPDA_Assignment/EPDA_Assignment-war/web/productClassEdit.jsp</file>
+            <file>file:/C:/Users/yelia/OneDrive%20-%20Asia%20Pacific%20University/Documents/NetBeansProjects/EPDA_Assignment/EPDA_Assignment/EPDA_Assignment-war/src/java/controller/logOut.java</file>
+            <file>file:/C:/Users/yelia/OneDrive%20-%20Asia%20Pacific%20University/Documents/NetBeansProjects/EPDA_Assignment/EPDA_Assignment/EPDA_Assignment-war/web/managerEdit.jsp</file>
+        </group>
+    </open-files>
+</project-private>
